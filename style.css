@@ -841,6 +841,7 @@ footer ul li a:hover{
     .footer_social{
         margin-left: 0;
         margin-bottom: 25px;
+        gap: 10px;
     }
     .footer_copyright{
         margin-top: 15px;
