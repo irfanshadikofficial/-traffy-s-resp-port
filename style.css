@@ -767,10 +767,12 @@ footer ul li a:hover{
     .services_container .cards{
         display: grid;
         grid-template-columns: 1fr;
+        margin-bottom: 30px;
     }
     .courses_container{
         display: flex;
         flex-direction: column;
+        margin-bottom: 30px;
     }
     .footer_container{
         text-align: center;
