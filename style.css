@@ -823,19 +823,24 @@ footer ul li a:hover{
     }
     .footer-1 p{
         margin: 0 0 -4rem;
+        margin-bottom: 25px;
     }
     .footer-2{
         margin: 0 0 -4rem;
+        margin-bottom: 25px;
     }
     .footer-3{
         margin: 0 0 -4rem;
+        margin-bottom: 25px;
     }
     .footer-4{
         margin: 0 0 -4rem;
         margin-bottom: 0;
+        margin-bottom: 25px;
     }
     .footer_social{
         margin-left: 0;
+        margin-bottom: 25px;
     }
     .footer_copyright{
         margin-top: 15px;
