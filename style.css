@@ -813,3 +813,36 @@ footer ul li a:hover{
         padding: 0 10px;
     }
 }
+@media screen and (max-width: 360px) {
+    .container{
+        width: 95%;
+    }
+    .footer_container{
+        grid-template-columns: repeat(1, 1fr);
+        text-align: center;
+    }
+    .footer-1 p{
+        margin: 0 0 -4rem;
+    }
+    .footer-2{
+        margin: 0 0 -4rem;
+    }
+    .footer-3{
+        margin: 0 0 -4rem;
+    }
+    .footer-4{
+        margin: 0 0 -4rem;
+        margin-bottom: 0;
+    }
+    .footer_social{
+        margin-left: 0;
+    }
+    .footer_copyright{
+        margin-top: 15px;
+    }
+    .header_right a{
+        margin-bottom: 25px;
+        padding: 0 10px;
+    }
+    
+}
