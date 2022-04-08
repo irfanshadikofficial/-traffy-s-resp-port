@@ -1,4 +1,3 @@
 # -traffy-s-resp-port
-## Responsive website
-### To Do :
+To Do :
 - Create a day and greetings option with javascript
