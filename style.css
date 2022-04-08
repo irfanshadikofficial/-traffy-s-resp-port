@@ -716,7 +716,7 @@ footer ul li a:hover{
     }
 }
 /*Media Query Mobile ########################################################################*/
-@media  screen and (max-width:600px) {
+@media  screen and (max-width:800px) {
     .container{
         width: var(--container-width-sm);
     }
@@ -770,18 +770,18 @@ footer ul li a:hover{
     .faqs_container{
         grid-template-columns: 1fr;
         text-align: center;
-        gap: 2rem;
+        gap: 0rem;
     }
     .footer_social{
         justify-content: center;
-        margin-left: -1.5rem;
+        margin-left: -117px;
         margin-top: -1px;
     }
     .mail{
         margin-bottom: 15px;
     }
 }
-@media screen and (max-width:300px) {
+@media screen and (max-width:700px) {
     .container{
         width: 95%;
     }
@@ -823,20 +823,16 @@ footer ul li a:hover{
     }
     .footer-1 p{
         margin: 0 0 -4rem;
-        margin-bottom: 25px;
     }
     .footer-2{
         margin: 0 0 -4rem;
-        margin-bottom: 25px;
     }
     .footer-3{
         margin: 0 0 -4rem;
-        margin-bottom: 25px;
     }
     .footer-4{
         margin: 0 0 -4rem;
         margin-bottom: 0;
-        margin-bottom: 25px;
     }
     .footer_social{
         margin-left: 0;
@@ -853,5 +849,4 @@ footer ul li a:hover{
         margin-left: 5px;
         margin-right: 5px;
     }
-    
 }
