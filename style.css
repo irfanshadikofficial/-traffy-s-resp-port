@@ -781,7 +781,7 @@ footer ul li a:hover{
         margin-bottom: 15px;
     }
 }
-@media screen and (max-width:300px) {
+@media screen and (max-width:360px) {
     .container{
         width: 95%;
     }
@@ -813,7 +813,7 @@ footer ul li a:hover{
         padding: 0 10px;
     }
 }
-@media screen and (max-width: 360px) {
+@media screen and (max-width: 4120px) {
     .container{
         width: 95%;
     }
